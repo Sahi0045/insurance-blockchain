@@ -1,0 +1,8 @@
+/home/Sahi0045/Downloads/-Bank-Assurance-solana-main/solana-program/target/debug/deps/solana_config_program-63d9b50efaafe424.d: /home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-1.16.15/src/lib.rs /home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-1.16.15/src/config_instruction.rs /home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-1.16.15/src/config_processor.rs /home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-1.16.15/src/date_instruction.rs
+
+/home/Sahi0045/Downloads/-Bank-Assurance-solana-main/solana-program/target/debug/deps/libsolana_config_program-63d9b50efaafe424.rmeta: /home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-1.16.15/src/lib.rs /home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-1.16.15/src/config_instruction.rs /home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-1.16.15/src/config_processor.rs /home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-1.16.15/src/date_instruction.rs
+
+/home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-1.16.15/src/lib.rs:
+/home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-1.16.15/src/config_instruction.rs:
+/home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-1.16.15/src/config_processor.rs:
+/home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-config-program-1.16.15/src/date_instruction.rs:

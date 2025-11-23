@@ -1,0 +1,8 @@
+/home/Sahi0045/Downloads/-Bank-Assurance-solana-main/solana-program/target/debug/deps/solana_udp_client-349ac6c2c42ca301.d: /home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.16.15/src/lib.rs /home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.16.15/src/nonblocking/mod.rs /home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.16.15/src/nonblocking/udp_client.rs /home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.16.15/src/udp_client.rs
+
+/home/Sahi0045/Downloads/-Bank-Assurance-solana-main/solana-program/target/debug/deps/libsolana_udp_client-349ac6c2c42ca301.rmeta: /home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.16.15/src/lib.rs /home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.16.15/src/nonblocking/mod.rs /home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.16.15/src/nonblocking/udp_client.rs /home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.16.15/src/udp_client.rs
+
+/home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.16.15/src/lib.rs:
+/home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.16.15/src/nonblocking/mod.rs:
+/home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.16.15/src/nonblocking/udp_client.rs:
+/home/Sahi0045/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-udp-client-1.16.15/src/udp_client.rs:
