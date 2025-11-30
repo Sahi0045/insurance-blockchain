@@ -91,6 +91,13 @@ const Layout: React.FC<LayoutProps> = ({ children, title = 'Bank-Assurance DAPP'
     }
   };
 
+  const mainBoxSx = {
+    display: 'flex' as const,
+    flexDirection: 'column' as const,
+    minHeight: '100vh',
+    bgcolor: theme.palette.background.default,
+  };
+
   const drawerContent = (
     <Box sx={{ width: 280, height: '100%', background: theme.palette.background.default }}>
       <Box sx={{ 
@@ -116,7 +123,7 @@ const Layout: React.FC<LayoutProps> = ({ children, title = 'Bank-Assurance DAPP'
         <Typography variant="body2" sx={{ opacity: 0.9 }}>
           {userProfile ? userProfile.name : 'Not Connected'}
         </Typography>
-        {isWalletConnected && wallet.publicKey && (
+        {isWalletConnected && wallet && wallet.publicKey && (
           <Box sx={{ mt: 2, display: 'flex', alignItems: 'center', gap: 1 }}>
             <Avatar sx={{ width: 32, height: 32, bgcolor: alpha('#FFFFFF', 0.2) }}>
               <Person sx={{ fontSize: 18 }} />
@@ -196,7 +203,7 @@ const Layout: React.FC<LayoutProps> = ({ children, title = 'Bank-Assurance DAPP'
   );
 
   return (
-    <Box sx={{ display: 'flex', flexDirection: 'column', minHeight: '100vh', bgcolor: theme.palette.background.default }}>
+    <Box sx={mainBoxSx}>
       <AppBar 
         position="fixed" 
         elevation={0}
@@ -264,7 +271,7 @@ const Layout: React.FC<LayoutProps> = ({ children, title = 'Bank-Assurance DAPP'
               </Fade>
             )}
             
-            {isWalletConnected && wallet.publicKey && (
+            {isWalletConnected && wallet && wallet.publicKey && (
               <Fade in={isWalletConnected}>
                 <Box>
                   <Chip 
